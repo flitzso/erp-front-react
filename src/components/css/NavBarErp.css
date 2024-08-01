@@ -1,0 +1,9 @@
+/* NavBarErp.css */
+.barraNav {
+    background-color: rgb(96, 96, 163) !important; /* Altere para a cor desejada */
+  }
+  
+  /* Se quiser alterar a cor do texto do Navbar.Brand */
+  .navbar-brand {
+    color: #ffffff; /* Altere para a cor desejada */
+  }
