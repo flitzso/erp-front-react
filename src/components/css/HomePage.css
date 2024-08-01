@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to bottom, rgb(96, 96, 163) 50%, #ffffff 50%);
+    margin: 0;
+    height: 100vh; /* Garante que o fundo cubra toda a altura da tela */
+  }
+  
